@@ -5,4 +5,6 @@ Please find the ReadMe for client, server  in their respective sub-repositories:
  [mern-project Web App ReadMe](client)<br/>
  [mern-project Server ReadMe](server)<br/>
  
+  [Used Flowbite React Library (Tailwind CSS for designing]<br/>
+ 
  
