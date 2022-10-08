@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card-container {
+  display: grid;
+  grid-template-columns: 400px 400px;
+  column-gap: 50px;
+}
+#root > nav {
+  background-color: rgb(216, 234, 234);
+  position: fixed;
+  width: 100%;
+}
+#root > .top-container {
+  height: 100vh;
+
+}
+
+#root > .top-container .w-48{
+margin-top: 50px;
+}
+#root > .card-margin > div {
+  margin-bottom: 15px;
+  width: 30vw;
+}
+#root > .top-padding {
+  padding-top: 4rem;
+}
+
